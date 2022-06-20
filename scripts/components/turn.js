@@ -1,0 +1,1 @@
+CARDGAME.module.components.TurnComponent = (turn) => (`<h2 id='turn'> ${turn === 0 ? 'macs' : 'dealer'}'s turn </h2>`);
